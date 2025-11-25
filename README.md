@@ -1,9 +1,11 @@
-To run pendulum.py, 
+The notebook poincare_map is the KAM book cover.
 
-pip install -r requirements.txt
+To run pendulum.py:
+
+  pip install -r requirements.txt
 
 and 
 
-stremalit run pendulumm.py
+  stremalit run pendulumm.py
 
 
